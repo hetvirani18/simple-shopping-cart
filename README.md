@@ -52,6 +52,3 @@ No build tools or installations required.
 ## Preview
 
 ![Shopping Cart Preview](preview.png)  
-*Example preview of the shopping cart in action.*
-
-> *(Replace `preview.png` with your actual screenshot file.)*
